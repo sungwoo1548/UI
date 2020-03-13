@@ -4,7 +4,7 @@ import './App.css';
 const App = () => {
   return (
     <div className="App">
-      hello
+      <div className="bt-250"><h1>hello</h1></div>
     </div>
   )
 }
